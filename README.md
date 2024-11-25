@@ -1,1 +1,2 @@
 # OFIF-Net
+This repo provides the processed samples of noisy audios from the [VoiceBank_DEMAND test set](https://datashare.ed.ac.uk/handle/10283/2791) and the [DNS-Challenge non-blind test set](https://github.com/microsoft/DNS-Challenge). These samples are enhanced using our proposed OFIF-Net model, as presented in the manuscript "Speech Enhancement with Overlapped-Frame Information Fusion and Causal Self-Attention".
